@@ -1,0 +1,63 @@
+header{
+	margin: 25px auto !important;
+
+}
+
+h2{
+	margin-top: 0px;
+
+}
+
+.principal{
+	
+	height: 100vh;
+
+}
+
+.slider{
+
+	img{width: 100%; height: 500px;}
+	margin-bottom: 0px !important;
+
+}
+
+.blue-green{
+
+	background-color: rgb(70, 130, 180);
+	h1{color: white;}
+
+}
+
+.red{
+	
+	h2, p{ color: white; }
+	background-color: #e74c3c;
+
+}
+
+.space{
+
+	margin-bottom: 20px;
+	padding: 60px 0px;
+
+}
+
+span{
+
+	font-style: italic;
+	margin-right: 2px;
+
+}
+
+
+.normal{
+	background-color: #017780;
+
+}
+.invert{
+	background-color: invert(#017780);
+}
+
+.complement{
+	background-color: complement(#017780);
+}
